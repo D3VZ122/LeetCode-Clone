@@ -1,0 +1,41 @@
+/* Submissions.module.css */
+
+.Subtable {
+    margin: 20px;
+  }
+  
+  .Subtable table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+  }
+  
+  .Subtable th,
+  .Subtable td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .Subtable th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .Subtable tbody tr:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .Subtable button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .Subtable button:hover {
+    background-color: #0056b3;
+  }
+
+  

@@ -1,0 +1,30 @@
+.myTable {
+    margin-top: 20px;
+    background-color: rgb(83, 83, 82);  
+  }
+  
+  .myTable table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .myTable th {
+    background-color: #f2f2f2;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .myTable td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .myTable tbody tr:nth-child() {
+    background-color: #ffffff;
+  }
+  
+  .myTable tbody tr:first-child {
+    background-color: transparent;
+  }
+  
